@@ -1,2 +1,2 @@
 # digital-clock
-A digital clock, which I build by using HTML, CSS and JavaScript.
+A digital clock, which I built using HTML, CSS and JavaScript.
